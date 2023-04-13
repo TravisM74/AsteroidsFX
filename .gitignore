@@ -1,0 +1,9 @@
+# ingnore these files and folders
+/.settings
+/bin
+/nbproject
+.classpath
+.project
+build.fxbuild
+build.xml
+manifest.mf
